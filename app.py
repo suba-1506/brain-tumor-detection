@@ -18,7 +18,7 @@ st.set_page_config(
 # Model Configuration
 # -----------------------------------------
 
-MODEL_PATH = "/content/brain_tumor_app/brain_tumor_classification_model.keras"
+MODEL_PATH = "brain_tumor_classification_model.keras"
 
 CLASS_NAMES = [
     "Glioma",
